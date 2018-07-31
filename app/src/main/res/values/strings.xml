@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GithubApi</string>
+    <string name="null_response_message">Response is null</string>
+    <string name="failure_message">Something went wrong: </string>
 </resources>
